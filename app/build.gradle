@@ -5,7 +5,7 @@ android {
     buildToolsVersion configs.buildToolsVersion
 
     defaultConfig {
-        applicationId "com.loopeer.test.cardstackview"
+        applicationId "com.pipiyang2"
         minSdkVersion configs.minSdkVersion
         targetSdkVersion configs.targetSdkVersion
         versionCode configs.versionCode
